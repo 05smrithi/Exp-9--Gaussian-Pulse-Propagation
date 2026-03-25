@@ -25,6 +25,8 @@ If a Gaussian pulse is input to a linear system with a Gaussian impulse response
 
 
 ---
+## Block Diagram 
+<img width="753" height="407" alt="image" src="https://github.com/user-attachments/assets/ac1e0a1d-adaa-455f-9dc4-fee1cf3f864d" />
 
 ## Calculations
 **System Parameters:**
